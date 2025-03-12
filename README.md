@@ -9,7 +9,7 @@ I'm a **passionate cybersecurity learner** exploring the world of ethical hackin
 - **Programming & Scripting** – Writing security tools in Python , bash , PHP and More.  
 - **Networking & Traffic Analysis** – Understanding TCP/IP, analyzing packets with Wireshark.  
 
-## 🛡️ Skills & Tools  
+
 ### 💻 Programming:  
 - **Python** – Automating security tasks, scripting for recon.  
 - **Bash** – Used mainly for Linux commands.
